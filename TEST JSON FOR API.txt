@@ -1,0 +1,40 @@
+# 	test 
+
+{
+ 	
+        "patient_id": 245005,
+        "name": "Tom",
+        "age": 65,
+        "surname": "Wozawski",
+	"gender": "Male"
+
+}
+
+
+
+
+
+{
+  
+  	"body_temp": 98.6,
+  	"pulse_rate": 72,
+  	"breathing_rate": 16,
+  	"blood_pressure": 120
+ 
+}
+
+
+{
+    "deviceType": "Heart Monitor",
+    "deviceName": "CardioPro 3000",
+    "deviceFunction": "Monitors heart rate and rhythm"
+}
+
+
+{
+  "type": "critical",
+  "message": "Battery level critically low",
+  "status": "pending"
+}
+
+

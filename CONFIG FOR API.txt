@@ -1,0 +1,2 @@
+# H2 DATABASE CHANGE PROP FOR DB TESTING !!!!  IN application.properties
+# spring.datasource.url=jdbc:h2:file:C:/Users/Duki/test;AUTO_SERVER=TRUE;IFEXISTS=FALSE
