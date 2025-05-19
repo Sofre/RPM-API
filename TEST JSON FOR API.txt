@@ -1,5 +1,5 @@
-# 	test 
-
+# TEST 
+# Patient
 {
  	
         "patient_id": 245005,
@@ -10,10 +10,7 @@
 
 }
 
-
-
-
-
+# Vitals
 {
   
   	"body_temp": 98.6,
@@ -23,18 +20,25 @@
  
 }
 
-
+# Devices
 {
     "deviceType": "Heart Monitor",
     "deviceName": "CardioPro 3000",
     "deviceFunction": "Monitors heart rate and rhythm"
 }
 
-
+# Alerts
 {
   "type": "critical",
   "message": "Battery level critically low",
   "status": "pending"
 }
 
+# Notes 
+ {
+    "subjective": "Patient reports a persistent cough for the past two weeks, accompanied by mild chest discomfort and occasional headaches.",
+    "objective": "Temperature: 99.1°F, Heart rate: 78 bpm, Blood pressure: 120/80 mmHg. Lungs clear on auscultation, mild nasal congestion.",
+    "assessment": "Possible viral upper respiratory infection. Differential includes allergic rhinitis or early bronchitis.",
+    "plan": "Prescribe a mild cough suppressant, recommend increased fluid intake, and advise rest. Follow-up in one week if symptoms persist."
+  }
 
