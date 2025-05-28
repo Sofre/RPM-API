@@ -17,7 +17,7 @@ public class DeviceModel {
 
     @ManyToOne
     @JoinColumn(name = "patient_id") // new column that will reference PatientModule(id)
-    PatientModel patient; // this will controll mapping from many to one
+    PatientModel patient; // this will control mapping from many to one
     // this means the id of devices will be a child of the id of patients
     // this help linking
 

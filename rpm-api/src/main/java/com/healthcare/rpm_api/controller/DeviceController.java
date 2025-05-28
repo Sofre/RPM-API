@@ -22,7 +22,7 @@ public class DeviceController {
     @PostMapping("/{id}/devices")
         DeviceModel addDevicesbypatient_Id(@PathVariable("id") long id, @RequestBody DeviceModel deviceModel){
         System.out.println("POST point  with patient_id" + id );
-        return deviceService.addDevice(id,deviceModel);
+        return deviceService.addDevice(id,deviceModel) ;
 
     }
     @GetMapping("/{id}/devices") // on all on patient_id
