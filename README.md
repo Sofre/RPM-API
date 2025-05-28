@@ -78,6 +78,7 @@ The following files are included to help you test and configure the API:
 
 ## 🚀 Cloud Deployment on Podman 
 
+* http://localhost:8081/rpm-api  - PODMAN under alias awesome_raman.tar 
 
 
 
