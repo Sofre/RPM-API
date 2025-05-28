@@ -1,4 +1,4 @@
-# RPM-API
+# **RPM-API**
 
 A **Remote Patient Monitoring** API built using **Spring Boot**. This API allows healthcare systems to manage patients, monitor their vital signs, and handle alerts for anomalies in real-time.
 
@@ -56,7 +56,7 @@ Test the API on Postman or use standard curl commands !
 ## 🛠 H2 Database Console
 You can access the H2 database console for debugging or testing:
 
--- URL: http://localhost:8080/h2-console
+URL: http://localhost:8080/h2-console
 
 JDBC URL: jdbc:h2:mem:testdb
 
@@ -69,9 +69,9 @@ Password: (leave blank)
 ## 📑 Sample Files
 The following files are included to help you test and configure the API:
 
--- CONFIG FOR API.txt – contains configuration info
+* CONFIG FOR API.txt – contains configuration info
 
--- TEST JSON FOR API.txt – sample JSON payloads to use with the endpoints
+* TEST JSON FOR API.txt – sample JSON payloads to use with the endpoints
 
 
 ## 👤 Author
