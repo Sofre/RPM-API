@@ -62,7 +62,7 @@ JDBC URL: jdbc:h2:mem:testdb
 
 Username: sa
 
-Password: (leave blank)
+Password: 23052001
 
 
 
